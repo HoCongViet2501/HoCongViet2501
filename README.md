@@ -8,10 +8,16 @@ I'm a passionate developer who loves to code and build things. Welcome to my Git
 - Working on various personal projects
 - Learning and growing in the software development field
 
-### 🛠️ Tech Stack
-- Languages: Java, JavaScript, TypeScript, C/C++<!-- Add your preferred programming languages -->
-- Frameworks: SpringBoot, VueJS, ReactJS, NodeJS <!-- Add frameworks you work with -->
-- Tools: Git, Docker, K8s, Jenkins
+## 🛠️ Tech Stack
+Here’s a quick overview of the tools and technologies I work with:
+
+| **Category**         | **Technologies**                          |
+|----------------------|-------------------------------------------|
+| **Languages**        | Java, JavaScript, TypeScript, C/C++       |
+| **Frameworks**       | Spring Boot, Vue.js, React.js, Node.js    |
+| **Tools**            | Git, Docker, Kubernetes, Jenkins          |
+| **Databases**        | MySQL, PostgreSQL, MongoDB                |
+| **Other**            | REST API, GraphQL, CI/CD, Microservices   |
 
 ### 📈 GitHub Stats
 
